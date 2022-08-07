@@ -9,7 +9,9 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: award_for_network_researcher_m0008a.jpeg
 ---
 <br>
 
-**Wireless, Embedded Intelligence, Sensing and Emerging Technologies (WEISER)** Research group located at National University of Singapore.
+**Wireless, Embedded Intelligence, Sensing and Emerging Technologies (WEISER)**  group hosted at the National University of Singapore.
